@@ -21,9 +21,9 @@ Ao execultar ele o usuário deve escolher 2 pontos dos vários espalhados pelo m
 ## Screenshots
 
 <div align="center">
-	<img src="./assets/print01.jpeg" alt="print">
-	<img src="./assets/print02.jpeg" alt="print">
-	<img src="./assets/print03.jpeg" alt="print">
+	<img src="./assets/print01.png" alt="print">
+	<img src="./assets/print02.png" alt="print">
+	<img src="./assets/print03.png" alt="print">
 </div>
 
 ## Instalação 
