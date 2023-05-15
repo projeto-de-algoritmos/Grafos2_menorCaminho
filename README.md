@@ -16,7 +16,7 @@ Esse código é um exemplo de implementação do algoritmo Dijkstra em Python us
 Ao execultar ele o usuário deve escolher 2 pontos dos vários espalhados pelo mapa, assim ao serem escolhidos o programa irá mostra o menor caminho possível para ir de um ponto ao outro.
 
 ### Vídeo de apresentação
-
+[Apresentação](https://github.com/projeto-de-algoritmos/Grafos2_menorCaminho/tree/main/Video%20de%20apresentacao)
 
 ## Screenshots
 
