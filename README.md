@@ -11,7 +11,9 @@
 
 ## Sobre 
 
+Esse código é um exemplo de implementação do algoritmo Dijkstra em Python usando a biblioteca Pygame para visualização do mapa e do caminho mínimo encontrado.
 
+Ao execultar ele o usuário deve escolher 2 pontos dos vários espalhados pelo mapa, assim ao serem escolhidos o programa irá mostra o menor caminho possível para ir de um ponto ao outro.
 
 ### Vídeo de apresentação
 
@@ -37,7 +39,7 @@ Abra o arquivo do código em um editor de código como o VSCode, o Sublime Text,
 Execute o código com o comando:
 
 ``` shell 
-python menorcaminho.py
+python menorCaminho.py
 ``` 
 
 Aguarde até que a janela do jogo esteja aberta e divirta-se
